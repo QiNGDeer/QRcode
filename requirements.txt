@@ -1,0 +1,6 @@
+opencv-python~=4.6.0.66
+qrcode~=7.3.1
+validators~=0.20.0
+pyzbar~=0.1.9
+myqr~=2.3.1
+pillow~=9.2.0
